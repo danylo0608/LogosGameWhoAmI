@@ -1,0 +1,5 @@
+[
+  {"title": "Біблійні персонажі", "path": "assets/bible_characters.json"},
+  {"title": "Царі Ізраїлю", "path": "assets/kings_israel.json"},
+  {"title": "Пророки", "path": "assets/prophets.json"}
+]
