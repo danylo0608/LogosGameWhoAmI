@@ -1,0 +1,6 @@
+[
+  {"title": "Звичайні слова", "path": "assets/normal_common_words.json"},
+  {"title": "Тварини", "path": "assets/normal_animals.json"},
+  {"title": "Предмети", "path": "assets/normal_objects.json"},
+  {"title": "Професії", "path": "assets/normal_professions.json"}
+]
